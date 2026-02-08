@@ -95,13 +95,13 @@ An interactive Power BI dashboard was developed to visualize key insights and tr
 ## Dashboard Preview 📊
 
 ### Overall Performance Dashboard
-![Overall Dashboard](images/Dashboard_Overview.png)
+![Overall Dashboard](dashboard_overview.jpeg)
 
 ### Transaction Analysis
-![Transaction Analysis](images/Transaction_Analysis.png)
+![Transaction Analysis](transaction_analysis.jpeg)
 
 ### Customer Insights
-![Customer Insights](images/Customer_Insights.png)
+![Customer Insights](customer_insights.jpeg)
 
 ---
 
